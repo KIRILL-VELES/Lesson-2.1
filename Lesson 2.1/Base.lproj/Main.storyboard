@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nn6-X0-097">
-                                <rect key="frame" x="16" y="437" width="358" height="357"/>
+                                <rect key="frame" x="16" y="436.66666666666674" width="358" height="357.33333333333326"/>
                                 <color key="backgroundColor" systemColor="systemPinkColor"/>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rev-Xk-kzb">
-                                <rect key="frame" x="16" y="63" width="358" height="358"/>
+                                <rect key="frame" x="16" y="63" width="358" height="357.66666666666669"/>
                                 <color key="backgroundColor" systemColor="systemTealColor"/>
                             </view>
                         </subviews>
